@@ -2,6 +2,37 @@
 ⭐Practical New Tasks and Inspiring Modeling Solutions for Diverse Open Vision Problems⭐
 
 ---
+
+### 2025 | MDD | ICCV
+**MDD: A Dataset for Text-and-Music Conditioned Duet Dance Generation**  
+<sup>Prerit Gupta, Jason Alexander Fotso-Puepi, Zhengyuan Li, Jay Mehta, Aniket Bera</sup>  
+[Paper](https://arxiv.org/abs/2508.16911)/[Code](https://gprerit96.github.io/mdd-page/)
+
+| <img src="images/MDD-task.png" width="800"/> | <img src="images/MDD-result.png" width="1400"/>                                                                                                                                                                           |
+| :------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| **Task:** Text-to-Duet for generating coordinated partner movements from a text description and music, and Text-to-Dance Accompaniment for synthesizing context-aware follower motion given the leader’s motion, music and text description.                                               | **Modeling:**  [MDM](https://arxiv.org/abs/2209.14916)/[InterGen](https://arxiv.org/abs/2304.05684)/[Duolando](https://arxiv.org/abs/2403.18811)
+
+ ### 2025 | NRCD | IGARSS
+**Non-Registration Change Detection: A Novel Change Detection Task and Benchmark Dataset**  
+<sup>Zhe Shan, Lei Zhou, Liu Mao, Shaofan Chen, Chuanqiu Ren, Xia Xie</sup>  
+[Paper](https://arxiv.org/abs/2505.09939)/[Code](https://github.com/ShanZard/NRCD)
+
+| <img src="images/NRCD-task.png" width="400"/> | <img src="images/NRCD-result.png" width="400"/>                                                                                                                                                                           |
+| :------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| **Task:**  Non-registration change detection.                                            | **Modeling:**  General change detection models.
+
+
+### 2025 | MOSPA | arXiv
+**MOSPA: Human Motion Generation Driven by Spatial Audio**  
+<sup>Shuyang Xu, Zhiyang Dou, Mingyi Shi, Liang Pan, Leo Ho, Jingbo Wang, Yuan Liu, Cheng Lin, Yuexin Ma, Wenping Wang, Taku Komura</sup>  
+[Paper](https://arxiv.org/abs/2507.11949)
+
+| <img src="images/MOSPA-task.png" width="800"/> | <img src="images/MOSPA-result.png" width="400"/>                                                                                                                                                                           |
+| :------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| **Task:** Human motion generation task centered on spatial audio-driven human motion synthesis.                                               | **Modeling:**  A diffusion-based generative framework (MOSPA)  captures the relationship between body motion and spatial audio through
+ an effective fusion mechanism. |
+
+
 ### 2025 | EMind | arXiv
 **EMind: A Foundation Model for Multi-task Electromagnetic Signals Understanding**  
 <sup>Luqing Luo, Wenjin Gui, Yunfei Liu, Ziyue Zhang, Yunxi Zhang, Fengxiang Wang, Zonghao Guo, Zizhi Ma, Xinzhu Liu, Hanxiang He, Jinhai Li, Xin Qiu, Wupeng Xie, Yangang Sun</sup>  
