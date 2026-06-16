@@ -3,6 +3,15 @@
 
 ---
 
+### 2025 | Historical Map Segmentation | ICDAR  
+**Few-Shot Segmentation of Historical Maps via Linear Probing of Vision Foundation Models**  
+<sup>Rafael Sterzinger, Marco Peer, Robert Sablatnig</sup>  
+[Paper](https://arxiv.org/abs/2101.02144)
+
+| <img width="400" src="https://github.com/user-attachments/assets/ba145210-e2c4-41dd-9966-eb728bab95ac" /> | <img width="400" src="https://github.com/user-attachments/assets/cb164428-a394-44c6-84ff-339deec9d31a" /> |
+|:------------------------------------------------:|:------------------------------------------------:|
+| **Task:** Historical map segmentation, aiming to parse scanned historical maps and segment meaningful cartographic or geographic elements such as railways, vineyards, and building blocks from visually heterogeneous map styles. | **Modeling:** The scanned historical map is treated as an image and its symbolic geographic content is converted into pixel-level semantic regions. |
+
 ### 2025 | MDD | ICCV
 **MDD: A Dataset for Text-and-Music Conditioned Duet Dance Generation**  
 <sup>Prerit Gupta, Jason Alexander Fotso-Puepi, Zhengyuan Li, Jay Mehta, Aniket Bera</sup>  
