@@ -179,6 +179,17 @@
 |:---------------------------------------------:|:----------------------------------------------:|
 | **Task:** Fine-grained detection of battery plates from X-ray/CT images. | **Modeling:**  Multi-dimensional collaborative framework (point, line, number). |
 
+### 2023 | Crater Detection | arXiv
+**Deep Learning based Systems for Crater Detection: A Review**
+<sup>Atal Tewari, K. Prateek, Amrita Singh, Nitin Khanna</sup>
+[Paper](https://arxiv.org/abs/2310.07727)
+
+| <img src="https://github.com/user-attachments/assets/5bb8f1bb-930c-402c-b8fb-295bd35ea426" width="500"/> |                                          <img src="https://github.com/user-attachments/assets/ee46af4a-9ddf-4322-9375-de0b4dc86b6e" height="200"/>                                           |
+| :------------------------------------------------------------------------------------------------------- | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| **Task:** Crater detection on lunar digital elevation maps (DEMs).                                       | **Modeling:** It can be formulated as candidate-region classification, crater-mask segmentation with post-processing, or direct object detection for estimating crater locations and sizes. |
+
+NOTE: *The planetary data mainly used for crater detection are digital orthophoto maps (DOMs), digital elevation maps (DEMs), and near IR images. These data’s characteristics differ from one another, such as DOMs and infrared images are affected by sun angle and cause highlight and shadow patterns. In contrast, DEMs are unaffected but lack complex terrain information.*
+
 ### 2023 | WireSegHR | CVPR  
 **Automatic High Resolution Wire Segmentation and Removal**  
 <sup>Mang Tik Chiu, Xuaner Zhang, Zijun Wei, Yuqian Zhou, Eli Shechtman, Connelly Barnes, Zhe Lin, Florian Kainz, Sohrab Amirghodsi, Humphrey Shi</sup>  
