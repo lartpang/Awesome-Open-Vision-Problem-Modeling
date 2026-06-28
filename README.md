@@ -3,6 +3,26 @@
 
 ---
 
+### 2026 | Waste Segmentation | ICML
+**Towards Effective Waste Segmentation for Automated Waste Recycling in Cluttered Background**  
+<sup>Mamoona Javaid, Mubashir Noman, Abdul Hannan, Shah Nawaz, Mustansar Fiaz, Sajid Ghuffar</sup>  
+[Paper](https://arxiv.org/abs/2606.13587)/[Code](https://github.com/techmn/ewsegnet)
+
+| <img width="400" alt="image" src="https://github.com/user-attachments/assets/20262a82-413c-40bf-b9f2-d1c5cbb3a1a2" /> | <img width="400" alt="image" src="https://github.com/user-attachments/assets/0170ea50-43d9-4f14-8748-ae7b3d499613" /> |
+|:------------------------------------------------:|:------------------------------------------------:|
+| **Task:** Waste object segmentation for automated waste recycling in cluttered backgrounds, aiming to accurately segment recyclable or removable waste objects from complex conveyor-belt scenes with heavy occlusion, deformation, and background clutter. | **Modeling:** The recycling scene is formulated as a pixel-level waste segmentation problem. The proposed network cascades spatial-domain modeling for localized structural dependencies and spectral-domain modeling for global contextual relationships, while an auxiliary feature enhancement module strengthens object boundaries and blob-like target regions for robust segmentation in cluttered scenarios. |
+
+
+### 2026 | Microstructure Image Segmentation | IJCAI
+**IPSM-Bench: A New Intermediate Phase Segmentation Benchmark in Microstructure Images of Zinc-Based Absorbable Biomaterials**  
+<sup>Jinglin Xu, Shangyan Zhao, Jiabo Wang, Xinghong Mu, Yulong Lei, Jiacheng Zhang, Hongbo Sun, Yageng Li</sup>  
+[Paper](https://arxiv.org/abs/2606.11001)/[Code&Dataset](https://github.com/AgileMotionTeam/IPSM-Bench)
+
+| <img width="400" alt="image" src="https://github.com/user-attachments/assets/5cc8a404-e94d-4084-98c7-8cd45d8dcd52" /> | <img width="400" alt="image" src="https://github.com/user-attachments/assets/eb8c2fe2-e6f3-4000-a355-4ed6fbb40a83" /> |
+|:------------------------------------------------:|:------------------------------------------------:|
+| **Task:** Intermediate phase segmentation in zinc-based absorbable biomaterial microstructure images. | **Modeling:** Pixel-level microstructure segmentation with IPSM-Bench; SCoP-SAM guides SAM using spatial context priors from gradient and grayscale cues. |
+
+
 ### 2025 | Historical Map Segmentation | ICDAR  
 **Few-Shot Segmentation of Historical Maps via Linear Probing of Vision Foundation Models**  
 <sup>Rafael Sterzinger, Marco Peer, Robert Sablatnig</sup>  
@@ -11,6 +31,7 @@
 | <img width="400" src="https://github.com/user-attachments/assets/ba145210-e2c4-41dd-9966-eb728bab95ac" /> | <img width="400" src="https://github.com/user-attachments/assets/cb164428-a394-44c6-84ff-339deec9d31a" /> |
 |:------------------------------------------------:|:------------------------------------------------:|
 | **Task:** Historical map segmentation, aiming to parse scanned historical maps and segment meaningful cartographic or geographic elements such as railways, vineyards, and building blocks from visually heterogeneous map styles. | **Modeling:** The scanned historical map is treated as an image and its symbolic geographic content is converted into pixel-level semantic regions. |
+
 
 ### 2025 | MDD | ICCV
 **MDD: A Dataset for Text-and-Music Conditioned Duet Dance Generation**  
