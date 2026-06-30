@@ -3,6 +3,16 @@
 
 ---
 
+### 2026 | Sky Segmentation | MLKE
+**SkySeg-Net: Sky Segmentation-Based Row-Terminal Recognition in Trellised Orchards**  
+<sup>Haiyang Gu, Yong Wang, Huaiyang Liu, Tong Tian, Changxing Geng, Yun Shi</sup>  
+[Paper](https://www.mdpi.com/2504-4990/8/2/46)
+
+| <img width="400" alt="image" src="https://github.com/user-attachments/assets/60c9548a-bc0d-49aa-b267-9a48de2cf37f" /> | <img width="400" alt="image" src="https://github.com/user-attachments/assets/3ca6033e-ba6e-47e3-b3a0-5ae044d162ee" /> |
+|:------------------------------------------------:|:------------------------------------------------:|
+| **Task:** Sky-region segmentation for row-terminal recognition in trellised orchards. | **Modeling:** Pixel-level sky segmentation with an enhanced multi-scale U-Net, using ResNeSt, CBAM, and PPM to infer row-terminal positions from sky-area changes. |
+
+
 ### 2026 | Waste Segmentation | ICML
 **Towards Effective Waste Segmentation for Automated Waste Recycling in Cluttered Background**  
 <sup>Mamoona Javaid, Mubashir Noman, Abdul Hannan, Shah Nawaz, Mustansar Fiaz, Sajid Ghuffar</sup>  
