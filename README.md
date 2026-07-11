@@ -33,6 +33,16 @@
 | **Task:** Intermediate phase segmentation in zinc-based absorbable biomaterial microstructure images. | **Modeling:** Pixel-level microstructure segmentation with IPSM-Bench; SCoP-SAM guides SAM using spatial context priors from gradient and grayscale cues. |
 
 
+### 2025 | Ground-based Cloud Image Segmentation | arXiv
+**MPCM-Net: A Multi-scale Network that Integrates Partial Attention Convolution with Mamba for Ground-based Cloud Image Segmentation**  
+<sup>Penghui Niu, Jiashuai She, Taotao Cai, Yajuan Zhang, Ping Zhang, Junhua Gu, Jianxin Li</sup>  
+[Paper](https://arxiv.org/html/2511.11681)/[Code](https://github.com/she1110/CSRC)
+
+| <img width="400" alt="image" src="https://github.com/user-attachments/assets/78cc2a02-d963-45fe-ac2c-ea407289fe3b" /> | <img width="400" alt="image" src="https://github.com/user-attachments/assets/e739d703-9515-428c-a8d5-0367c64f66fd" /> |
+| :----------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| **Task:** Fine-grained ground-based cloud image segmentation with four classes (white cloud, gray cloud, sun, and background) for photovoltaic power forecasting. | **Modeling:** Encoder-decoder segmentation with multi-scale partial attention convolution and Mamba-based decoding for cloud boundary and scale-aware feature modeling. |
+
+
 ### 2025 | Historical Map Segmentation | ICDAR  
 **Few-Shot Segmentation of Historical Maps via Linear Probing of Vision Foundation Models**  
 <sup>Rafael Sterzinger, Marco Peer, Robert Sablatnig</sup>  
